@@ -17,6 +17,7 @@ public class ClientApp
 
         while (true) {
             int i = 9;
+            String str = "Abylay";
         }
     }
 }
