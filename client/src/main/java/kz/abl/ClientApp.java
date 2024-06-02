@@ -14,5 +14,9 @@ public class ClientApp
             System.out.println("Hello");
         }
         System.out.println( "Hello World!" );
+
+        while (true) {
+            int i = 9;
+        }
     }
 }
